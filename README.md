@@ -3,7 +3,6 @@ I'm a wannabe mathematician who writes code to do fun math things. This repo is 
 
 - Problem Simulations
 - Code for my Talk Math 2 Me talks
-- Code from (past) math problems
 
 Please note that you will not find my Project Euler solutions here, unless I talk about them for Talk Math 2 Me (in which case the solutions will probably be modified before being uploaded into here). If you'd like to see those, you can go [here](https://github.com/SomeDatabase/ProjectEuler). Otherwise, enjoy.
 
